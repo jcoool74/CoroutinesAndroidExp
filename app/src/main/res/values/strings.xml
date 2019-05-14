@@ -2,4 +2,5 @@
     <string name="app_name">CoroutinesAndroidExp</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main_coroutine_scope">MainActivityCoroutineScope</string>
+    <string name="title_activity_coroutines_update_ui">ActivityCoroutinesUpdateUI</string>
 </resources>
